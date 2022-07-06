@@ -11,7 +11,7 @@
 
 ## Authors
 
-[Anastasios Tzelepakis](https://github.com/)
+[Anastasios Tzelepakis](https://github.com/anastzel)
 
 ## Installation
 
