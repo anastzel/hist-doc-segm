@@ -9,6 +9,10 @@
 ![Demo Screenshot 2](https://github.com/anastzel/hist-doc-segm/blob/main/2.png)
 ![Demo Screenshot 3](https://github.com/anastzel/hist-doc-segm/blob/main/3.png)
 
+## Authors
+
+[Anastasios Tzelepakis](https://github.com/)
+
 ## Installation
 
 1.It is recommended to install tensorflow (or tensorflow-gpu) independently using Anaconda distribution, in order to make sure all dependencies are properly installed.
