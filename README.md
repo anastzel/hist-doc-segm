@@ -33,7 +33,7 @@ source activate hist_doc_segm
 
 ## Download Models
 
-You can download the models needed from my [here](https://drive.google.com/drive/folders/1ixB7ifTz0YeIFowU_G59eujb5FUfB_7O?usp=sharing) (models have a large size, so GitHub doesn't allowed me to upload them).
+You can download the models needed from my [here](https://drive.google.com/drive/folders/1ixB7ifTz0YeIFowU_G59eujb5FUfB_7O?usp=share_link) (models have a large size, so GitHub didn't allow me to upload them).
 
 After you have downloaded the models, place them inside the repository folder.
 
